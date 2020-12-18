@@ -154,7 +154,7 @@
    </property>
    <property name="icon">
     <iconset theme="test" resource="icons.qrc">
-     <normaloff>:/icons/iocn.ico</normaloff>:/icons/iocn.ico</iconset>
+     <normaloff>:/icons/icon.ico</normaloff>:/icons/icon.ico</iconset>
    </property>
    <property name="text">
     <string>icon</string>
