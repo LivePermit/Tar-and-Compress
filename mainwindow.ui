@@ -14,7 +14,7 @@
    <enum>Qt::NoContextMenu</enum>
   </property>
   <property name="windowTitle">
-   <string>文件管理器</string>
+   <string>文件打包压缩管理器</string>
   </property>
   <property name="windowIcon">
    <iconset resource="icons.qrc">
